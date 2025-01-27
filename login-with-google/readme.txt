@@ -1,11 +1,11 @@
 === Log in with Google ===
-Contributors: rtCamp
+Contributors: rtCamp, sh4lin
 Donate link: https://rtcamp.com/
 Tags: Google login, sign in, sso, oauth, authentication, sign-in, single sign-on, log in
 Requires at least: 5.5
-Tested up to: 6.6
+Tested up to: 6.3.1
 Requires PHP: 7.4
-Stable tag: 1.3.2
+Stable tag: 1.3.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -137,6 +137,12 @@ Once you're ready to send a pull request, please run through the following check
 
 == Changelog ==
 
+= 1.3.4 =
+* Chore: Doc update
+
+= 1.3.3 =
+* Fix: Redirection back to login page issue.
+
 = 1.3.2 =
 * Compatible with PHP 8.1
 * Compatible with WordPress latest version 6.3.1
@@ -191,6 +197,10 @@ Once you're ready to send a pull request, please run through the following check
 * Maintenance release: Updated minimum requirements.
 
 == Upgrade Notice ==
+
+= 1.3.4 =
+* Fix: Redirection back to login page issue.
+* Chore: Doc update
 
 = 1.3.2 =
 * Compatible with PHP 8.1 and WordPress 6.3.1
