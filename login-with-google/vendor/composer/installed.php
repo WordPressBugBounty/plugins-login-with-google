@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'rtcamp/login-with-google',
-        'pretty_version' => '1.4.3',
-        'version' => '1.4.3.0',
-        'reference' => '200986cec2da8ce6551491fc9693408bf9fb4b92',
+        'pretty_version' => '1.4.4',
+        'version' => '1.4.4.0',
+        'reference' => '0699378310d1400c5704834e55bfdfaf1d28d8da',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -29,9 +29,9 @@
             'dev_requirement' => false,
         ),
         'rtcamp/login-with-google' => array(
-            'pretty_version' => '1.4.3',
-            'version' => '1.4.3.0',
-            'reference' => '200986cec2da8ce6551491fc9693408bf9fb4b92',
+            'pretty_version' => '1.4.4',
+            'version' => '1.4.4.0',
+            'reference' => '0699378310d1400c5704834e55bfdfaf1d28d8da',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
