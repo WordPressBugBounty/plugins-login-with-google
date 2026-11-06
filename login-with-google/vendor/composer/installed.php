@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'rtcamp/login-with-google',
-        'pretty_version' => '1.4.4',
-        'version' => '1.4.4.0',
-        'reference' => '0699378310d1400c5704834e55bfdfaf1d28d8da',
+        'pretty_version' => '1.4.5',
+        'version' => '1.4.5.0',
+        'reference' => '09e3a7c80724f6603176698d91a78900826bed82',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'pimple/pimple' => array(
-            'pretty_version' => 'v3.5.0',
-            'version' => '3.5.0.0',
-            'reference' => 'a94b3a4db7fb774b3d78dad2315ddc07629e1bed',
+            'pretty_version' => 'v3.6.2',
+            'version' => '3.6.2.0',
+            'reference' => '8cfe7f74ac22a433d303914eba9ea4c2a834edce',
             'type' => 'library',
             'install_path' => __DIR__ . '/../pimple/pimple',
             'aliases' => array(),
@@ -29,9 +29,9 @@
             'dev_requirement' => false,
         ),
         'rtcamp/login-with-google' => array(
-            'pretty_version' => '1.4.4',
-            'version' => '1.4.4.0',
-            'reference' => '0699378310d1400c5704834e55bfdfaf1d28d8da',
+            'pretty_version' => '1.4.5',
+            'version' => '1.4.5.0',
+            'reference' => '09e3a7c80724f6603176698d91a78900826bed82',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
